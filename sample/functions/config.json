@@ -1,0 +1,26 @@
+[
+    {
+        "name": "setEmbeddings",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "getProducts",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "getChats",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "saveChats",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    }
+]

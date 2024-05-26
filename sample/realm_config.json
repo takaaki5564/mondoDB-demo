@@ -1,0 +1,7 @@
+{
+    "app_id": "bedrockdemo-clbjkvy",
+    "config_version": 20210101,
+    "name": "bedrockDemo",
+    "provider_region": "aws-ap-southeast-1",
+    "deployment_model": "LOCAL"
+}
